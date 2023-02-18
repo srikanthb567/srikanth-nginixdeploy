@@ -1,0 +1,8 @@
+<html>
+  <head>
+    <title>Welcome to Hi-Tech Institution</title>
+  </head>
+  <body bgcolor="##fafaf">
+    <h1>Welcome to Hi-Tech Institution.</h1>
+  </body>
+</html>
